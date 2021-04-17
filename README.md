@@ -1,4 +1,5 @@
 # Kraken Case Study
+### Brock Freeman
 
 ## This is a case study on the FinTech company and cryptocurrency exchange Kraken.
 
